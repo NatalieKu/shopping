@@ -312,6 +312,7 @@
 				E02B88B21F31F5E100C8A985 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
