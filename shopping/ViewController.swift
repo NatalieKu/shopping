@@ -75,7 +75,7 @@ class ViewController: UIViewController {
     }
     
     func calculate() {
-        let sum = 23900 * myValue1 + 28500 * myValue2 + 2850 * myValue3 + 5800 * myValue4
+        let sum = 28500 * myValue1 + 23900 * myValue2 + 2850 * myValue3 + 5800 * myValue4
         totalCostLabel.text = "Total: $\(sum)"
     }
     
