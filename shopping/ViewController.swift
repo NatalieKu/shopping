@@ -64,7 +64,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func ringStepper(_ sender: UIStepper) {
-        ringQty.isHidden = false
+        
         myValue4 = Int(sender.value)
         ringQty.text = "\(myValue4)"
         
